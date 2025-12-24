@@ -1,0 +1,4 @@
+CS101,Intro to Programming,Prof. Ada Lovelace,2
+CS201,Data Structures,Prof. Edsger Dijkstra,2
+MATH210,Discrete Math,Dr. Emmy Noether,3
+HIST105,World History,Dr. Howard Zinn,1

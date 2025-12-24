@@ -1,0 +1,164 @@
+Demo data loaded from data/students.txt and data/courses.txt.
+Use the menu to manage students and courses.
+
+==== University Course Management ====
+1) Add student
+2) Add course
+3) Enroll student in course
+4) Drop student from course
+5) List courses for student
+6) List students in course
+7) Show waitlist for course
+8) Search courses by instructor
+9) Show activity log
+0) Exit
+Select an option: Student ID: Course code: Enroll action completed.
+
+==== University Course Management ====
+1) Add student
+2) Add course
+3) Enroll student in course
+4) Drop student from course
+5) List courses for student
+6) List students in course
+7) Show waitlist for course
+8) Search courses by instructor
+9) Show activity log
+0) Exit
+Select an option: Student ID: Course code: Enroll action completed.
+
+==== University Course Management ====
+1) Add student
+2) Add course
+3) Enroll student in course
+4) Drop student from course
+5) List courses for student
+6) List students in course
+7) Show waitlist for course
+8) Search courses by instructor
+9) Show activity log
+0) Exit
+Select an option: Student ID: Course code: Enroll action completed.
+
+==== University Course Management ====
+1) Add student
+2) Add course
+3) Enroll student in course
+4) Drop student from course
+5) List courses for student
+6) List students in course
+7) Show waitlist for course
+8) Search courses by instructor
+9) Show activity log
+0) Exit
+Select an option: Student ID: Course code: Enroll action completed.
+
+==== University Course Management ====
+1) Add student
+2) Add course
+3) Enroll student in course
+4) Drop student from course
+5) List courses for student
+6) List students in course
+7) Show waitlist for course
+8) Search courses by instructor
+9) Show activity log
+0) Exit
+Select an option: Student ID: Course code: Drop action completed.
+
+==== University Course Management ====
+1) Add student
+2) Add course
+3) Enroll student in course
+4) Drop student from course
+5) List courses for student
+6) List students in course
+7) Show waitlist for course
+8) Search courses by instructor
+9) Show activity log
+0) Exit
+Select an option: Student ID: Courses:
+- CS101
+
+==== University Course Management ====
+1) Add student
+2) Add course
+3) Enroll student in course
+4) Drop student from course
+5) List courses for student
+6) List students in course
+7) Show waitlist for course
+8) Search courses by instructor
+9) Show activity log
+0) Exit
+Select an option: Course code: Students:
+- S001
+- S003
+
+==== University Course Management ====
+1) Add student
+2) Add course
+3) Enroll student in course
+4) Drop student from course
+5) List courses for student
+6) List students in course
+7) Show waitlist for course
+8) Search courses by instructor
+9) Show activity log
+0) Exit
+Select an option: Course code: Waitlist:
+- S004
+
+==== University Course Management ====
+1) Add student
+2) Add course
+3) Enroll student in course
+4) Drop student from course
+5) List courses for student
+6) List students in course
+7) Show waitlist for course
+8) Search courses by instructor
+9) Show activity log
+0) Exit
+Select an option: Instructor name (partial accepted): Matches:
+- CS101: Intro to Programming
+
+==== University Course Management ====
+1) Add student
+2) Add course
+3) Enroll student in course
+4) Drop student from course
+5) List courses for student
+6) List students in course
+7) Show waitlist for course
+8) Search courses by instructor
+9) Show activity log
+0) Exit
+Select an option: [2025-12-05 19:05:53] Added student S001 (Jordan Turner)
+[2025-12-05 19:05:53] Added student S002 (Avery Kim)
+[2025-12-05 19:05:53] Added student S003 (Riley Patel)
+[2025-12-05 19:05:53] Added student S004 (Casey Morgan)
+[2025-12-05 19:05:53] Added student S005 (Taylor Quinn)
+[2025-12-05 19:05:53] Added course CS101 (Intro to Programming)
+[2025-12-05 19:05:53] Added course CS201 (Data Structures)
+[2025-12-05 19:05:53] Added course MATH210 (Discrete Math)
+[2025-12-05 19:05:53] Added course HIST105 (World History)
+[2025-12-05 19:05:53] Enrolled S001 in CS101
+[2025-12-05 19:05:53] Enrolled S002 in CS101
+[2025-12-05 19:05:53] Added S003 to waitlist for CS101
+[2025-12-05 19:05:53] Added S004 to waitlist for CS101
+[2025-12-05 19:05:53] S003 promoted from waitlist into CS101
+[2025-12-05 19:05:53] Dropped S002 from CS101
+
+==== University Course Management ====
+1) Add student
+2) Add course
+3) Enroll student in course
+4) Drop student from course
+5) List courses for student
+6) List students in course
+7) Show waitlist for course
+8) Search courses by instructor
+9) Show activity log
+0) Exit
+Select an option: Goodbye.
