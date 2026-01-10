@@ -1,3 +1,5 @@
+[![CI](https://github.com/msaenzjr23/cpp-university-course-management-system/actions/workflows/ci.yml/badge.svg)](https://github.com/msaenzjr23/cpp-university-course-management-system/actions/workflows/ci.yml)
+
 # University Course Management System
 
 Console-based C++17 program that manages students, courses, enrollment, waitlists, and activity logs using STL containers (map, set, list, queue, deque, pair).
